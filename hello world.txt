@@ -1,5 +1,8 @@
-print("hello world")
-print("hello world все")
-print("hello world 3")
-print("hello mhu dear friend")
-print("hello  all the world")
+
+print("hello world")ж
+print("hello world все")ж
+print("hello world 3")жж
+print("hello mhu dear friend")ж
+print("hello  all the world")ж
+
+
